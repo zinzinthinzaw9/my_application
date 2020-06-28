@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
+    <string name="continue_with">continue with</string>
+    <string name="or">or</string>
+</resources>
